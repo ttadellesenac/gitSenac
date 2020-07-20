@@ -1,0 +1,4 @@
+alter session set current_schema =apps;
+
+select sysdate
+  from dual;
