@@ -6,7 +6,6 @@
 *.exe
 *.o
 *.so
-*.sql
 
 # Packages #
 ############
@@ -20,6 +19,7 @@
 *.rar
 *.tar
 *.zip
+*.pck
 
 # Logs and databases #
 ######################
